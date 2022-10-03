@@ -1,0 +1,11 @@
+fav_destinations = ["tunisia","italy","germany","us","brazil"]
+    alert(fav_destinations)
+    sorted = [...fav_destinations].sort()
+    alert(sorted)
+    alert(fav_destinations)
+    alert(sorted.reverse())
+    alert(fav_destinations)
+    alert(fav_destinations.reverse())
+    alert(fav_destinations.reverse())
+    alert(fav_destinations.sort())
+    alert(fav_destinations.reverse())

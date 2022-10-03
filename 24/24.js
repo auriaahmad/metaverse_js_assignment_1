@@ -1,0 +1,27 @@
+console.log(`ahmad is strong' == 'Ahmad is strong? prediction fasle`);
+    console.log('ahmad is strong' == 'Ahmad is strong');
+    console.log(`ahmad is strong' != 'Ahmad is strong? prediction true`);
+    console.log('ahmad is strong' != 'Ahmad is strong');
+    console.log(`'A'.toLowerCase() == 'a'? prediction true`);
+    console.log('A'.toLowerCase() == 'a');
+    console.log(`2+1 === 3 ? prediction true`);
+    console.log(2+1 === 3);
+    console.log(`3 != 1 ? prediction true`);
+    console.log(3 != 1);
+    console.log(`3>5? prediction false`);
+    console.log(3>5);
+    console.log(`14.12<14.11? prediction false`);
+    console.log(14.12<14.11);
+    console.log(`12>=11.11? prediction true`);
+    console.log(12>=11.11);
+    console.log(`1<=1? prediction true`);
+    console.log(1<=1);
+    console.log(`1 && 0 == 0? prediction true`);
+    console.log(1 && 0 == 0);
+    console.log(`1 || 1 == 0? prediction false`);
+    console.log((1 || 1) == 0 );
+    subjects = ['che','phy','bio']
+    console.log(`subjects.includes(che)? prediction true`);
+    console.log(subjects.includes("che"));
+    console.log(`subjects.includes('eng')? prediction`);
+    console.log(subjects.includes('eng'));
