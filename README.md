@@ -5,6 +5,4 @@
 👇👇👇
 # [Interactive Assigment deployed on surge](https://metaverse_js_assignment_1.surge.sh/)
 # Disabled the show code button
-![image](https://user-images.githubusercontent.com/50408063/193546983-eb9cf550-d6b2-4801-8b46-abad01be3750.png)
-
-
+![image](https://user-images.githubusercontent.com/50408063/193547184-0f2f8ff4-6750-4732-becb-2f822d512c89.png)
